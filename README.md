@@ -8,9 +8,12 @@ Challenge faced in this are  workers using the expired gloves and helmets.
 they track the expire dates in the note it is risky and some files are missed this may cause the major lose for the workers safety
 
 
-CONSOLE:
+PHASE 1:
+CONSOLE CODE:
+  
    The oops concepts used in this are encapsulation , abstraction, inheritance and polymorphism.
    in encapsulation we use the private atributes (gearID, name,expiryDate)
    in the polymorphism we use the checkExpiry() functions for the multiple time
    in the inheritance subclassed (helmet,gloves,vest) inherit from the parent PPE class
+
 
